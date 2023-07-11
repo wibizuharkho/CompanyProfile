@@ -13,14 +13,14 @@ body {
 
 .jc-sb {
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
 }
 
 .ai-center {
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
 }
 
 .container {
@@ -28,8 +28,8 @@ body {
   width: 90%;
   margin: auto;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
 }
 
 h1,
@@ -49,11 +49,11 @@ h5 {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
 }
 
 .header .logo a {
@@ -69,7 +69,7 @@ h5 {
 }
 
 .hero {
-  background: url("/images/Background.jpg") no-repeat fixed;
+  background: url('/images/Background.jpg') no-repeat fixed;
   background-size: cover;
 }
 
@@ -111,11 +111,11 @@ h5 {
   padding: 10% 0;
   color: white;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
 }
 
 .about-image {
@@ -124,11 +124,11 @@ h5 {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
 }
 
 .about-image .immageone {
@@ -139,7 +139,7 @@ h5 {
 
 .about-image .immageone img {
   -webkit-transform: scale(1.2);
-          transform: scale(1.2);
+  transform: scale(1.2);
 }
 
 .about-image .imagetwo {
@@ -151,7 +151,7 @@ h5 {
 
 .about-image .imagetwo img {
   -webkit-transform: scale(2.2);
-          transform: scale(2.2);
+  transform: scale(2.2);
 }
 
 .about h4 {
@@ -176,11 +176,11 @@ h5 {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
 }
 
 .services {
@@ -198,7 +198,7 @@ h5 {
   background: #1a1a1a;
   padding: 20px;
   -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   width: 18%;
 }
 
